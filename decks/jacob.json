@@ -1,0 +1,321 @@
+{
+    "playerName": "Jacob",
+    "deckTitle": "Across the Spider-Verse",
+    "commander": {
+        "name": "Miles Morales",
+        "type": "Legendary Creature",
+        "image": "breena.jpg"
+    },
+    "commanders": [
+        {
+            "name": "Miles Morales (Front)",
+            "type": "Legendary Creature - Human Citizen Hero",
+            "image": "miles-front.jpg"
+        },
+        {
+            "name": "Ultimate Spider-Man (Back)",
+            "type": "Legendary Creature - Spider Human Hero",
+            "image": "miles-back.jpg"
+        }
+    ],
+    "customColors": {
+        "primary": "#000000",
+        "secondary": "#EB0C0C"
+    },
+    "stats": {
+        "creatures": 33,
+        "spells": 22,
+        "lands": 38,
+        "enchantmentsArtifacts": 6
+    },
+    "strategy": "This is a unique deck. You have three steps: first, cast lots of spider-heroes and legendary creatures. Second, put counters on them. And third, use the overpowered Ultimate Spider Man to double those counters over and over again. You're Miles Morales, swinging across the Spiderverse, buffing all your friends, and WINNING WITH THEM.",
+    "notableCards": [
+        {
+            "name": "Beneath the Sands",
+            "image": "beneath-the-sands.jpg",
+            "description": "Your commander has three different colors: red, green, and white. And if you want to cast the powerful side, you need lots of mana. So cards like these help you get more lands out and therefore more mana. "
+        },
+        {
+            "name": "Web Warriors",
+            "image": "web-warriors.jpg",
+            "description": "This card is fantastic because it puts counters on all your creatures at once! Then, with Ultimate Spider-Man out, those counters just get bigger and bigger."
+        },
+        {
+            "name": "Duty Beyond Death",
+            "image": "duty-beyond-death.jpg",
+            "description": "Your creatures are going to get really powerful, really fast. And your opponents are NOT going to like it. Cards like Duty Beyond Death can protect your creatures so you can keep on swinging!"
+        },
+        {
+            "name": "Alexios, Deimos of Kosmos",
+            "image": "alexios-deimos-of-kosmos.jpg",
+            "description": "I know this card doesn't look like much now, but trust me, it is CRAZY. You play this card, you might not even need Miles because he is a powerhouse. Every single turn he gets one bigger, meaning every round he gets 4 bigger. So if you have him out and 3 rounds go by, he's attacking your opponents for 16 points of damage all by himself."
+        }
+    ],
+    "turnByTurnGuide": [
+        {
+            "turn": "Turns 1-2",
+            "goal": "Ramp and Setup",
+            "actions": "Play lands and ramp pieces to get your hands on the colors you need, and don't worry about not having anything yet. Just get your colors and get more lands."
+        },
+        {
+            "turn": "Turns 3-4",
+            "goal": "Cast Commander OR Set Up Spider-Heroes",
+            "actions": "Turns 3 and 4 you can choose to either cast Miles, or you can focus on getting legendary and spider creatures out to prepare for when Miles WILL come out."
+        },
+        {
+            "turn": "Turns 5-7",
+            "goal": "Cast Creatures, Add Counters",
+            "actions": "By these turns, you should be casting creatures and giving them as many counters as you can. Then cast Miles, the Ultimate Spider-Man side, and those creatures will all start DOUBLING in power."
+        },
+        {
+            "turn": "Turns 8+",
+            "goal": "Close Out the Game",
+            "actions": "Your Spider-friends should be huge by now. You'll be dealing tons of damage to everyone in sight, and there's nothing they can do about it. Go forth and win the game!"
+        }
+    ],
+    "cardsByCategory": {
+        "Ramp": [
+            {
+                "name": "Arcane Signet"
+            },
+            {
+                "name": "Avacyn's Pilgrim"
+            },
+            {
+                "name": "Beneath the Sands"
+            },
+            {
+                "name": "Blitzball"
+            },
+            {
+                "name": "Captain Lannery Storm"
+            },
+            {
+                "name": "Cultivate"
+            },
+            {
+                "name": "Far Wanderings"
+            },
+            {
+                "name": "Guy in the Chair"
+            },
+            {
+                "name": "Leafkin Druid"
+            },
+            {
+                "name": "Llanowar Elves"
+            },
+            {
+                "name": "Llanowar Loamspeaker"
+            },
+            {
+                "name": "Llanowar Visionary"
+            },
+            {
+                "name": "Radha, Heir to Keld"
+            },
+            {
+                "name": "Ruby, Daring Tracker"
+            },
+            {
+                "name": "Sol Ring"
+            },
+            {
+                "name": "Wood Elves"
+            }
+        ],
+        "Card Draw": [
+            {
+                "name": "Acrobatic Maneuver"
+            },
+            {
+                "name": "Aradesh, the Founder"
+            },
+            {
+                "name": "Bandage"
+            },
+            {
+                "name": "Cathartic Reunion"
+            },
+            {
+                "name": "Crash Through"
+            },
+            {
+                "name": "Dyadrine, Synthesis Amalgam"
+            },
+            {
+                "name": "Faramir, Field Commander"
+            },
+            {
+                "name": "Gilanra, Caller of Wirewood"
+            },
+            {
+                "name": "Haliya, Ascendant Cadet"
+            },
+            {
+                "name": "Harmonize"
+            },
+            {
+                "name": "Legolas Greenleaf"
+            },
+            {
+                "name": "Lord Jyscal Guado"
+            },
+            {
+                "name": "Paladin Elizabeth Taggerdy"
+            },
+            {
+                "name": "Thrilling Discovery"
+            },
+            {
+                "name": "Wylie Duke, Atiin Hero"
+            }
+        ],
+        "Removal": [
+            {
+                "name": "Abzan Advantage"
+            },
+            {
+                "name": "Ashling the Pilgrim"
+            },
+            {
+                "name": "Atraxa's Fall"
+            },
+            {
+                "name": "Auron, Venerated Guardian"
+            },
+            {
+                "name": "Calamity of Cinders"
+            },
+            {
+                "name": "Calamity's Wake"
+            },
+            {
+                "name": "Coordinated Maneuver"
+            },
+            {
+                "name": "Duty Beyond Death"
+            },
+            {
+                "name": "Out of Time"
+            }
+        ],
+        "Counters": [
+            {
+                "name": "Basri's Solidarity"
+            },
+            {
+                "name": "Collective Effort"
+            },
+            {
+                "name": "Daily Bugle Reporters"
+            },
+            {
+                "name": "Fangs of Kalonia"
+            },
+            {
+                "name": "Inspiring Roar"
+            },
+            {
+                "name": "Now for Wrath, Now for Ruin!"
+            },
+            {
+                "name": "Oath of Ajani"
+            },
+            {
+                "name": "Origin of Spider-Man"
+            },
+            {
+                "name": "Pledge of Unity"
+            },
+            {
+                "name": "Strength of the Pack"
+            },
+            {
+                "name": "Web-Warriors"
+            }
+        ],
+        "Value Legendaries": [
+            {
+                "name": "Alexios, Deimos of Kosmos"
+            },
+            {
+                "name": "Anafenza, Kin-Tree Spirit"
+            },
+            {
+                "name": "Aragorn, Company Leader"
+            },
+            {
+                "name": "Araña, Heart of the Spider"
+            },
+            {
+                "name": "Arni Metalbrow"
+            },
+            {
+                "name": "Grunn, the Lonely King"
+            },
+            {
+                "name": "J. Jonah Jameson"
+            },
+            {
+                "name": "Spider-Man India"
+            },
+            {
+                "name": "Spider-Man, Brooklyn Visionary"
+            },
+            {
+                "name": "Spider-Rex, Daring Dino"
+            }
+        ],
+        "Lands": [
+            {
+                "name": "Bleeding Woods"
+            },
+            {
+                "name": "Blossoming Sands"
+            },
+            {
+                "name": "Boros Guildgate"
+            },
+            {
+                "name": "Evolving Wilds"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Gruul Turf"
+            },
+            {
+                "name": "Hall of Oracles"
+            },
+            {
+                "name": "Krosan Verge"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Path of Ancestry"
+            },
+            {
+                "name": "Plains"
+            },
+            {
+                "name": "Rustvale Bridge"
+            },
+            {
+                "name": "Selesnya Sanctuary"
+            },
+            {
+                "name": "Unclaimed Territory"
+            },
+            {
+                "name": "Wind-Scarred Crag"
+            },
+            {
+                "name": "Wooded Ridgeline"
+            }
+        ]
+    }
+}

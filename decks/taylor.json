@@ -1,0 +1,165 @@
+{
+  "playerName": "Taylor",
+  "deckTitle": "Story Bored to Death",
+  "commander": {
+    "name": "Tom Bombadil",
+    "type": "Legendary Creature — God Bard",
+    "image": "tom-bombadil.jpg"
+  },
+  "customColors": {
+    "primary": "#d3af37",
+    "secondary": "#0e4c92"
+  },
+  "stats": {
+    "creatures": 17,
+    "spells": 18,
+    "lands": 37,
+    "enchantmentsArtifacts":27
+  },
+  "strategy": "The main goal of this deck is to play Sagas. Sagas are a type of enchantment where each \"chapter\" allows for things to happen. When you're at 4 total counters across all Sagas, Tom Bombadil gets indestructible and hexproof. So you just keep playing those sagas, and everything will go swimmingly.",
+  "notableCards": [
+    {
+      "name": "Scroll of Isildur",
+      "image": "scroll-of-isildur.jpg",
+      "description":"This is an example of the Saga's you'll be playing. Some draw cards, like this one, others create tokens or destroy creatures. They are the key to your deck; make sure you have them in hand!"
+    },
+    {
+      "name": "Archon of Sun's Grace",
+      "image": "archon-of-sun.jpg",
+      "description":"Cards like these provide you with payoffs for casting Sagas. They are especially helpful to develop your gameplan to a win!"
+    },
+    {
+      "name": "Glissa Sunslayer",
+      "image": "glissa-sunslayer.jpg",
+      "description":"There are a smattering of cards, like this, that remove cards from your sagas to keep them around. They will be extraordinarily helpful to get the counters up."
+    },
+    {
+      "name": "Rampant Growth",
+      "image": "rampant-growth.jpg",
+      "description":"Ramp cards like this are so you can have access to all five colors you need to cast Tom Bombadil on curve."
+    }
+  ],
+  "turnByTurnGuide": [
+    {
+      "turn": "Turns 1-2",
+      "goal": "Ramp and Setup",
+      "actions": "Play lands and ramp pieces to get your hands on the colors you need. Don't be afraid to focus on ramping."
+    },
+    {
+      "turn": "Turns 3-4",
+      "goal": "Play First Sagas",
+      "actions": "Continue looking for the right colors. Play your first Saga, ideally right before you play Tom Bombadil"
+    },
+    {
+      "turn": "Turns 5-7",
+      "goal": "Play Commander and Throw Down Sagas",
+      "actions": "Play Tom Bombadil. Use him to cheat out Sagas, and use your Sagas to draw cards and manipulate counters. Build up value as much as you can."
+    },
+    {
+      "turn": "Turns 8+",
+      "goal": "Close Out the Game",
+      "actions": "By now you should be unstoppable. Use your Sagas and other pieces to crush the board with your overwhelming value."
+    }
+  ],
+  "cardsByCategory": {
+    "Ramp": [
+    { "name": "Abundant Growth" },
+    { "name": "Azusa's Many Journeys // Likeness of the Seeker" },
+    { "name": "Boseiju Reaches Skyward // Branch of Boseiju" },
+    { "name": "Cultivate" },
+    { "name": "Edge of Autumn" },
+    { "name": "Jukai Naturalist" },
+    { "name": "Paradise Druid" },
+    { "name": "Rampant Growth" },
+    { "name": "Roiling Regrowth" },
+    { "name": "Sakura-Tribe Elder" },
+    { "name": "Scholar of New Horizons" },
+    { "name": "Song of Freyalise" },
+    { "name": "The Restoration of Eiganjo // Architect of Restoration" },
+    { "name": "The Weatherseed Treaty" },
+    { "name": "Thirsting Roots" }
+  ],
+  "Card Draw": [
+    { "name": "Bello, Bard of the Brambles" },
+    { "name": "Heaven Sent" },
+    { "name": "Mesa Enchantress" },
+    { "name": "Satyr Enchanter" },
+    { "name": "Scroll of Isildur" },
+    { "name": "Showdown of the Skalds" },
+    { "name": "Song of Eärendil" },
+    { "name": "Tezzeret's Gambit" },
+    { "name": "The Bath Song" },
+    { "name": "The Elder Dragon War" },
+    { "name": "The First Iroan Games" }
+  ],
+  "Removal": [
+    { "name": "Austere Command" },
+    { "name": "Binding the Old Gods" },
+    { "name": "Cankerbloom" },
+    { "name": "Doomwake Giant" },
+    { "name": "Drown in Ichor" },
+    { "name": "Elspeth Conquers Death" },
+    { "name": "Elspeth's Nightmare" },
+    { "name": "Firja's Retribution" },
+    { "name": "One Ring to Rule Them All" },
+    { "name": "Phyrexian Scriptures" },
+    { "name": "Serum Snare" },
+    { "name": "The Akroan War" },
+    { "name": "The Eldest Reborn" },
+    { "name": "The Phasing of Zhalfir" },
+    { "name": "The Trickster-God's Heist" }
+  ],
+  "Value Cards": [
+    { "name": "Archon of Sun's Grace" },
+    { "name": "Dance of the Manse" },
+    { "name": "Ghen, Arcanum Weaver" },
+    { "name": "Michiko's Reign of Truth // Portrait of Michiko" },
+    { "name": "Quandrix Command" },
+    { "name": "Resurgent Belief" },
+    { "name": "Search for Glory" },
+    { "name": "Sigil of the Empty Throne" },
+    { "name": "The Cruelty of Gix" },
+    { "name": "Unnatural Restoration" }
+  ],
+  "Game Plan": [
+    { "name": "Clockspinning" },
+    { "name": "Contagion Clasp" },
+    { "name": "Contentious Plan" },
+    { "name": "Experimental Augury" },
+    { "name": "Glissa Sunslayer" },
+    { "name": "Goldberry, River-Daughter" },
+    { "name": "Grateful Apparition" },
+    { "name": "Satsuki, the Living Lore" },
+    { "name": "Sudden Disappearance" },
+    { "name": "Thrummingbird" },
+    { "name": "Yorion, Sky Nomad" }
+  ],
+  "Lands": [
+    { "name": "Bad River" },
+    { "name": "Canopy Vista" },
+    { "name": "Cinder Glade" },
+    { "name": "Deserted Beach" },
+    { "name": "Flood Plain" },
+    { "name": "Forest" },
+    { "name": "Furycalm Snarl" },
+    { "name": "Glacial Fortress" },
+    { "name": "Grasslands" },
+    { "name": "Haunted Mire" },
+    { "name": "Island" },
+    { "name": "Maestros Theater" },
+    { "name": "Mountain" },
+    { "name": "Mountain Valley" },
+    { "name": "Path of Ancestry" },
+    { "name": "Plains" },
+    { "name": "Port Town" },
+    { "name": "Prairie Stream" },
+    { "name": "Rocky Tar Pit" },
+    { "name": "Sacred Peaks" },
+    { "name": "Sunbaked Canyon" },
+    { "name": "Sunken Hollow" },
+    { "name": "Swamp" },
+    { "name": "Tangled Islet" },
+    { "name": "Vibrant Cityscape" }
+  ]
+  }
+}

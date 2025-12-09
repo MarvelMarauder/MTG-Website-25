@@ -1,0 +1,300 @@
+{
+    "playerName": "Braden",
+    "deckTitle": "Big Boys and Big Ben",
+    "commander": {
+        "name": "Scarlet Spider, Ben Reilly",
+        "type": "Legendary Creature — God Bard",
+        "image": "ben-reilly.jpg"
+    },
+    "customColors": {
+        "primary": "#F54927",
+        "secondary": "#25DE16"
+    },
+    "stats": {
+        "creatures": 35,
+        "spells": 14,
+        "lands": 38,
+        "enchantmentsArtifacts": 12
+    },
+    "strategy": "This deck is a breeze to play and dangerous to play against. You have a simple game plan: play cards that give you more mana, then play big creatures. Boom. Done. Do it again until you win. Nice and simple... unlike Ben Reilly's life, LOL got eem. Speaking of Ben Reilly, he helps you out by giving you a choice: you can cast him early and have him be a solid early game creature with 4 power, OR you can wait until the late game, cast, a HUGE creature, hit someone with it, and while they're grumbling, pull that creature back and slam Ben Reilly down with his Web-Slinging ability and make him EVEN BIGGER!",
+    "notableCards": [
+        {
+            "name": "Spider Manifestation",
+            "image": "spider-manifestation.jpg",
+            "description": "This is an example of a \"ramp\" card. This means that you can play this card to have even more mana. You'll want to play several of these. And you'll be able to; a full 1/5th of this deck is ramp cards."
+        },
+        {
+            "name": "Rhino, Barreling Brute",
+            "image": "rhino.jpg",
+            "description": "Here's one of your big boys! You have more of them of course, but this one is nice because it draws you cards. The more big boys you play, the more cards you draw and the more you have to play!"
+        },
+        {
+            "name": "Woodcaller Automaton",
+            "image": "woodcaller.jpg",
+            "description": "There are a few of these in the deck that look complicated, but they aren't. If you are up against a deck that gets lots of creatures out quickly and you need blockers, you can pay the Prototype cost (which is cheaper) and get a quick creature out. BUT if you have the mana for it, you can just pay the huge cost for him and whack someone with it."
+        },
+        {
+            "name": "Gaea's Embrace",
+            "image": "gaeas-embrace.jpg",
+            "description": "This is an interesting card. If you decide to make Ben Reilly the whole focus and make him as big as possible, then you can use this card to a) make him bigger and b)regenerate him. What is regenerate you ask? If you pay the regenerate cost, the creature just doesn't die. You can make Ben Reilly stay... forever."
+        }
+    ],
+    "turnByTurnGuide": [
+        {
+            "turn": "Turns 1-2",
+            "goal": "Ramp and Setup",
+            "actions": "Play lands and ramp aggressively. Don't be afraid to focus on ramping."
+        },
+        {
+            "turn": "Turns 3-4",
+            "goal": "Play a Creature, More Ramp",
+            "actions": "Continue ramping, maybe play a creature if you need blockers. But you need more mana, cause you're about to cast huge creatures."
+        },
+        {
+            "turn": "Turns 5-7",
+            "goal": "Minor Ramp, Play Big Boys",
+            "actions": "By this point, you should have access to a lot more mana than your opponents. You should be able to cast your big boys and start whacking everyone with them."
+        },
+        {
+            "turn": "Turns 8+",
+            "goal": "Close Out the Game",
+            "actions": "By now you should be throwing down huge creatures left and right. Even if your opponents destroy your creatures, you just untap your mana and put more big creatures down. You'll be a force of nature to be reckoned with."
+        }
+    ],
+    "cardsByCategory": {
+        "Ramp": [
+            {
+                "name": "Caravan Vigil"
+            },
+            {
+                "name": "Citanul Stalwart"
+            },
+            {
+                "name": "Druid of the Cowl"
+            },
+            {
+                "name": "Elfhame Druid"
+            },
+            {
+                "name": "Explore"
+            },
+            {
+                "name": "Gene Pollinator"
+            },
+            {
+                "name": "Golden Hind"
+            },
+            {
+                "name": "Goobbue Gardener"
+            },
+            {
+                "name": "Gruul Signet"
+            },
+            {
+                "name": "Hardbristle Bandit"
+            },
+            {
+                "name": "Harvester Druid"
+            },
+            {
+                "name": "Humble Naturalist"
+            },
+            {
+                "name": "Leaf Gilder"
+            },
+            {
+                "name": "Leafkin Druid"
+            },
+            {
+                "name": "Llanowar Loamspeaker"
+            },
+            {
+                "name": "Ravenous Amulet"
+            },
+            {
+                "name": "Rootrider Faun"
+            },
+            {
+                "name": "Ruby, Daring Tracker"
+            },
+            {
+                "name": "Sol Ring"
+            },
+            {
+                "name": "Spider Manifestation"
+            }
+        ],
+        "Card Draw": [
+            {
+                "name": "Abzan Beastmaster"
+            },
+            {
+                "name": "Arcane Encyclopedia"
+            },
+            {
+                "name": "Contested Game Ball"
+            },
+            {
+                "name": "Coveted Jewel"
+            },
+            {
+                "name": "Decaying Time Loop"
+            },
+            {
+                "name": "Deepwood Denizen"
+            },
+            {
+                "name": "Emmessi Tome"
+            },
+            {
+                "name": "Garruk's Packleader"
+            },
+            {
+                "name": "Gilanra, Caller of Wirewood"
+            },
+            {
+                "name": "Key to the City"
+            },
+            {
+                "name": "Mazemind Tome"
+            },
+            {
+                "name": "Superior Foes of Spider-Man"
+            },
+            {
+                "name": "Ulvenwald Mysteries"
+            }
+        ],
+        "Removal": [
+            {
+                "name": "Aerial Predation"
+            },
+            {
+                "name": "Airship Crash"
+            },
+            {
+                "name": "Bite Down"
+            },
+            {
+                "name": "Disaster Radius"
+            },
+            {
+                "name": "Ground Seal"
+            },
+            {
+                "name": "Naturalize"
+            },
+            {
+                "name": "Over the Edge"
+            },
+            {
+                "name": "Return to Nature"
+            },
+            {
+                "name": "Slice and Dice"
+            }
+        ],
+        "Big Boys": [
+            {
+                "name": "Archweaver"
+            },
+            {
+                "name": "Balamb T-Rexaur"
+            },
+            {
+                "name": "Beanstalk Giant // Fertile Footsteps"
+            },
+            {
+                "name": "Beanstalk Wurm // Plant Beans"
+            },
+            {
+                "name": "Blitz Automaton"
+            },
+            {
+                "name": "Bookwurm"
+            },
+            {
+                "name": "Boulderbranch Golem"
+            },
+            {
+                "name": "Bygone Colossus"
+            },
+            {
+                "name": "Chaos Maw"
+            },
+            {
+                "name": "Coliseum Behemoth"
+            },
+            {
+                "name": "Fallaji Dragon Engine"
+            },
+            {
+                "name": "Iron-Craw Crusher"
+            },
+            {
+                "name": "Meteor Golem"
+            },
+            {
+                "name": "Rhino, Barreling Brute"
+            },
+            {
+                "name": "Woodcaller Automaton"
+            }
+        ],
+        "Finishers": [
+            {
+                "name": "Biosynthic Burst"
+            },
+            {
+                "name": "Gaea's Embrace"
+            },
+            {
+                "name": "Run Wild"
+            },
+            {
+                "name": "Seedling Charm"
+            }
+        ],
+        "Lands": [
+            {
+                "name":"Thriving Bluff"
+            },
+            {
+                "name":"Temple of Abandon"
+            },
+            {
+                "name":"Wooded Ridgeline"
+            },
+            {
+                "name":"Command Tower"
+            },
+            {
+                "name":"Evolving Wilds"
+            },
+            {
+                "name":"Terramorphic Expanse"
+            },
+            {
+                "name":"Gruul Guildgate"
+            },
+            {
+                "name":"Temple of the False God"
+            },
+            {
+                "name":"Gruul Turf"
+            },
+            {
+                "name":"Sheltered Thicket"
+            },
+            {
+                "name":"Karplusan Forest"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Mountain"
+            }
+        ]
+    }
+}

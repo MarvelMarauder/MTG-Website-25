@@ -1,0 +1,35 @@
+{
+  "title": "Magic — Quick FAQ",
+  "playingField": {
+    "library": "Your deck of cards. When you draw, you take the top card into your hand.",
+    "battlefield": "Where creatures, artifacts, enchantments and lands sit when played.",
+    "graveyard": "Discarded cards. Some effects interact with the graveyard.",
+    "exile": "Removed from the game. Typically harder to recover from exile than from graveyard.",
+    "commandZone": "Commander cards start here and can be cast from here with commander tax rules."
+  },
+  "cardTypes": "A quick list: Creature, Instant, Sorcery, Enchantment, Artifact, Land, Planeswalker, Tribal.",
+  "mulligan":"The first few cards you draw are called your \"opening hand\". If you don't like it, you SHOULD mulligan, meaning shuffle it back into your library and draw a new set of 7 cards. You want to have at least 3 lands in your opening hand, and something that furthers your game plan. But be careful! The more you mulligan, the less cards you get to start with.",
+  "takingATurn": [
+    "Untap step — untap permanents.",
+    "Upkeep — triggers happen here.",
+    "Draw step — draw one card.",
+    "Main phase — play lands, cast spells.",
+    "Combat — declare attackers/defenders; deal damage.",
+    "Second main phase — same as first main phase.",
+    "End step — end-of-turn triggers resolve."
+  ],
+  "readingACard": "Top line: name. Mana cost: top-right. Types line: creature/enchantment/etc. Text box: abilities and keywords. Power/Toughness: bottom-right for creatures.",
+  "combat": "Declare attackers during combat. Defending player declares blockers. Combat damage is assigned and dealt. Watch for instant-speed interaction.",
+  "tipsAndTricks": [
+    "Always play your land for the turn! It's easy to forget, but lands are crucial for casting spells.",
+    "Save instant-speed removal for the best targets. Sometimes it's better to wait and see what your opponents play.",
+    "Read the cards carefully! Keywords like 'Flying' and 'Trample' matter a lot in combat.",
+    "In Commander, politics matter. Sometimes making a deal is better than making an enemy.",
+    "Don't be afraid to use your life as a resource. Going from 40 to 30 life isn't as scary as it seems.",
+    "Watch what lands your opponents play to figure out what colors they're running.",
+    "Your commander can be cast from the command zone, but it costs 2 more mana each time after the first.",
+    "Ramp (cards that help you get more mana) is usually a good early play to help you cast bigger spells later.",
+    "Card advantage is key: cards that let you draw more cards or get multiple effects are usually powerful.",
+    "When in doubt, ask! Everyone was new once, and most players are happy to help explain interactions."
+  ]
+}

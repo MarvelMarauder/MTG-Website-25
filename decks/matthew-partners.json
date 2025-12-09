@@ -1,0 +1,314 @@
+{
+    "playerName": "Matthew",
+    "deckTitle": "Weaponized Diabetes",
+    "commander": {
+        "name": "secret",
+        "type": "secret",
+        "image": "ben-reilly.jpg"
+    },
+    "commanders": [
+        {
+            "name": "Frodo, Adventurous Hobbit",
+            "type": "Legendary Creature - Halfling Scout",
+            "image": "frodo.jpg"
+        },
+        {
+            "name": "Sam, Loyal Attendant",
+            "type": "Legendary Creature - Halfling Peasant",
+            "image": "sam.jpg"
+        }
+    ],
+    "customColors": {
+        "primary": "#000000",
+        "secondary": "#0BB30B"
+    },
+    "stats": {
+        "creatures": 28,
+        "spells": 20,
+        "lands": 38,
+        "enchantmentsArtifacts": 13
+    },
+    "strategy": "No, you're not seeing things. This version of your deck has TWO commanders: Frodo and Sam. They both live in the command zone, and you get access to both of them. The goal with this deck is a little more complicated, but a little stronger than the Bilbo version of the deck. Here, you use Frodo to attack opponents and draw cards. Card draw is SUPER important in Magic. Then you use Sam to generate a ton of Food tokens, and since he reduces their cost, you can gain life even easier. Essentially, this is a grindy, slow, ridiculously hard to kill deck because you draw tons of cards, hit people with creatures, and just gain so much life. You'll be really hard to kill.",
+    "notableCards": [
+        {
+            "name": "Authority of the Consuls",
+            "image": "authority.jpg",
+            "description": "This card is just wild in either version of the deck. If you have it, play it. You won't regret it."
+        },
+        {
+            "name": "Sunscorch Regent",
+            "image": "sunscorch-regent.jpg",
+            "description": "This is a great card for your game plan. Every time an opponent does anything, Sunscorch Regent gets bigger and you gain more life. Great card."
+        },
+        {
+            "name": "Mirkwood Bats",
+            "image": "mirkwood-bats.jpg",
+            "description": "This card, and others like it, can easily kill your opponents. Think about it. You create a Food token every one of your combats. You'll be sacrificing Food tokens left and right. As a result, you're gonna be able to just ping your opponents to death with this card!"
+        },
+        {
+            "name": "Prize Pig",
+            "image": "prize-pig.jpg",
+            "description": "This is another example of a ramp card, but its SO good; you gain life, you add counters on it. You can remove counters from it to untap it, then tap it and add mana so you can sacrifice food tokens and gain MORE LIFE."
+        }
+    ],
+    "turnByTurnGuide": [
+        {
+            "turn": "Turns 1-2",
+            "goal": "Ramp and Play Frodo",
+            "actions": "You need to get Frodo out early so you can start drawing cards and dealing damage. So turns 1 and 2 are about playing lands, ramping if you have to, and trying to get Frodo out ASAP."
+        },
+        {
+            "turn": "Turns 3-4",
+            "goal": "Play Sam, Setup Engines",
+            "actions": "By turns 3 and 4, you should be playing Sam and getting lifegain engines set up. You should have drawn several cards through Frodo and should be looking to play big lifegain or big bombs."
+        },
+        {
+            "turn": "Turns 5-7",
+            "goal": "Set Up Opponent Pain",
+            "actions": "By now, you have Sam and Frodo out, you have ways to gain life, you've drawn a lot of cards, and now you should be finding ways to punish your opponents. That can be by whacking them with creatures, by draining them of life, or just by gaining crazy amounts of life."
+        },
+        {
+            "turn": "Turns 8+",
+            "goal": "Close Out the Game",
+            "actions": "It should be VERY hard to kill you by now. You're gaining tons of life, drawing tons of cards, and just being a nuisance. From turns 8 and onward, you should be hard to eliminate and slowly but surely killing your opponents."
+        }
+    ],
+    "cardsByCategory": {
+        "Ramp": [
+            {
+                "name": "Accomplished Alchemist"
+            },
+            {
+                "name": "Cultivate"
+            },
+            {
+                "name": "Many Partings"
+            },
+            {
+                "name": "Pristine Talisman"
+            },
+            {
+                "name": "Prize Pig"
+            },
+            {
+                "name": "Prosperous Innkeeper"
+            },
+            {
+                "name": "Rampant Growth"
+            },
+            {
+                "name": "Sakura-Tribe Elder"
+            },
+            {
+                "name": "Cycle of Renewal"
+            }
+        ],
+        "Card Draw": [
+            {
+                "name": "Dawn of Hope"
+            },
+            {
+                "name": "Healing Hands"
+            },
+            {
+                "name": "Heirloom Epic"
+            },
+            {
+                "name": "Instant Ramen"
+            },
+            {
+                "name": "Lifecrafter's Bestiary"
+            },
+            {
+                "name": "Mirror of Galadriel"
+            },
+            {
+                "name": "Revitalize"
+            },
+            {
+                "name": "Urza's Tome"
+            },
+            {
+                "name": "Well of Lost Dreams"
+            }
+        ],
+        "Removal": [
+            {
+                "name": "Abzan Charm"
+            },
+            {
+                "name": "Citadel Siege"
+            },
+            {
+                "name": "Despark"
+            },
+            {
+                "name": "Duty Beyond Death"
+            },
+            {
+                "name": "Expel the Interlopers"
+            },
+            {
+                "name": "Fell the Mighty"
+            },
+            {
+                "name": "Go for the Throat"
+            },
+            {
+                "name": "Kin-Tree Severance"
+            },
+            {
+                "name": "Mortality Spear"
+            },
+            {
+                "name": "Mortify"
+            },
+            {
+                "name": "Ready // Willing"
+            }
+        ],
+        "Lifegain": [
+            {
+                "name": "Ancestor Dragon"
+            },
+            {
+                "name": "Angel of Vitality"
+            },
+            {
+                "name": "Authority of the Consuls"
+            },
+            {
+                "name": "Blood Artist"
+            },
+            {
+                "name": "Crypt Incursion"
+            },
+            {
+                "name": "Daxos, Blessed by the Sun"
+            },
+            {
+                "name": "Elas il-Kor, Sadistic Pilgrim"
+            },
+            {
+                "name": "Fumigate"
+            },
+            {
+                "name": "Hinterland Sanctifier"
+            },
+            {
+                "name": "Nyx-Fleece Ram"
+            },
+            {
+                "name": "Revival // Revenge"
+            },
+            {
+                "name": "Sunscorch Regent"
+            },
+            {
+                "name": "Bilbo, Birthday Celebrant"
+            }
+        ],
+        "Food Tokens": [
+            {
+                "name": "Cat Collector"
+            },
+            {
+                "name": "Field-Tested Frying Pan"
+            },
+            {
+                "name": "Meriadoc Brandybuck"
+            },
+            {
+                "name": "Midnight Snack"
+            },
+            {
+                "name": "Of Herbs and Stewed Rabbit"
+            },
+            {
+                "name": "Peregrin Took"
+            },
+            {
+                "name": "Rapacious Guest"
+            },
+            {
+                "name": "Revive the Shire"
+            },
+            {
+                "name": "Rosie Cotton of South Lane"
+            }
+        ],
+        "Lifegain Payoff": [
+            {
+                "name": "Dina, Soul Steeper"
+            },
+            {
+                "name": "Elenda, Saint of Dusk"
+            },
+            {
+                "name": "Feasting Hobbit"
+            },
+            {
+                "name": "Fiendish Panda"
+            },
+            {
+                "name": "Gollum, Obsessed Stalker"
+            },
+            {
+                "name": "Lathiel, the Bounteous Dawn"
+            },
+            {
+                "name": "Marauding Blight-Priest"
+            },
+            {
+                "name": "Mirkwood Bats"
+            },
+            {
+                "name": "Trelasarra, Moon Dancer"
+            }
+        ],
+        "Lands": [
+            {
+                "name": "Blossoming Sands"
+            },
+            {
+                "name": "Evolving Wilds"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Graypelt Refuge"
+            },
+            {
+                "name": "Jungle Hollow"
+            },
+            {
+                "name": "Plains"
+            },
+            {
+                "name": "Radiant Grove"
+            },
+            {
+                "name": "Sandsteppe Citadel"
+            },
+            {
+                "name": "Scoured Barrens"
+            },
+            {
+                "name": "Swamp"
+            },
+            {
+                "name": "Temple of Malady"
+            },
+            {
+                "name": "Temple of Plenty"
+            },
+            {
+                "name": "Temple of Silence"
+            },
+            {
+                "name": "Terramorphic Expanse"
+            }
+        ]
+    }
+}

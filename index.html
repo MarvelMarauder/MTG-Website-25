@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Commander Deck Awaits</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Login Screen -->
+        <div id="loginScreen">
+            <h1>🎄 Your Commander Deck Awaits 🎁</h1>
+            <p>Enter your name and commander to unlock your deck!</p>
+            
+            <div class="input-group">
+                <input type="text" id="nameInput" placeholder="Your Name" autocomplete="off">
+            </div>
+            
+            <div class="input-group">
+                <input type="text" id="commanderInput" placeholder="Your Commander's Name" autocomplete="off">
+            </div>
+            
+            <button onclick="login()">View My Deck</button>
+            
+            <div id="errorMessage" class="error"></div>
+        </div>
+
+        <!-- Deck Screen -->
+        <div id="deckScreen">
+            <div class="header" id="deckHeader">
+                <h1 class="deck-title" id="deckTitle"></h1>
+                <p id="playerName"></p>
+                <div class="commander-info" id="commanderInfo">
+                    <img id="commanderImage" class="commander-image" src="" alt="Commander">
+                    <div class="commander-details">
+                        <h2 id="commanderName"></h2>
+                        <p id="commanderType"></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content">
+                <!-- Deck Stats -->
+                <div class="section">
+                    <h3>Deck Overview</h3>
+                    <div class="deck-stats">
+                        <div class="stat-card">
+                            <div class="number" id="creatureCount">0</div>
+                            <div class="label">Creatures</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="number" id="spellCount">0</div>
+                            <div class="label">Spells</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="number" id="landCount">0</div>
+                            <div class="label">Lands</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="number" id="enchantmentCount">0</div>
+                            <div class="label">Enchantments/Artifacts</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Strategy -->
+                <div class="section">
+                    <h3>Deck Strategy</h3>
+                    <p class="strategy-text" id="strategyText"></p>
+                </div>
+
+                <!-- Notable Cards -->
+                <div class="section">
+                    <h3>Key Cards</h3>
+                    <div class="notable-cards" id="notableCards"></div>
+                </div>
+
+                <!-- Turn by Turn Guide -->
+                <div class="section">
+                    <h3>Turn-by-Turn Guide</h3>
+                    <div id="turnGuide"></div>
+                </div>
+
+                <!-- Full Decklist -->
+                <div class="section">
+                    <h3>Complete Decklist</h3>
+                    <div id="cardCategories"></div>
+                </div>
+
+                <!-- FAQ Section -->
+                <div class="section">
+                    <h3>New to Magic? Quick Reference Guide</h3>
+                    <div id="faqContent"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="deck.js"></script>
+</body>
+</html>

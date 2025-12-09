@@ -1,0 +1,291 @@
+{
+    "playerName": "Zachary",
+    "deckTitle": "Reign of Wraiths",
+    "commander": {
+        "name": "Lord of the Nazgul",
+        "type": "Legendary Creature - Wraith Noble",
+        "image": "lord-nazgul.jpg"
+    },
+    "customColors": {
+        "primary": "#000000",
+        "secondary": "#2010E0"
+    },
+    "stats": {
+        "creatures": 13,
+        "spells": 38,
+        "lands": 38,
+        "enchantmentsArtifacts": 10
+    },
+    "strategy": "You've got a cool strategy. Your goal is to cast tons of instants and sorceries while you have your commander on the field. Lord of the Nazgul creates a wraith every time you cast an instant or sorcery spell; then if you have 9 wraiths, they're 9/9s and you're going to be very very dangerous. You've got TONS of spells to draw cards, you'll just be churning through your deck and making tons of wraiths.",
+    "notableCards": [
+        {
+            "name": "Aphotic Wisps",
+            "image": "aphotic-wisps.jpg",
+            "description": "Cards like these are your bread and butter. Cheap (only costs 1 black mana) and if you cast it with your commander out, you get a wraith out of it! These are fantastic cards."
+        },
+        {
+            "name": "Haughty Djinn",
+            "image": "haughty-djinn.jpg",
+            "description": "You're gonna be casting lots of spells, so cards like this that decrease your costs or increase your mana are excellent."
+        },
+        {
+            "name": "Spell Pierce",
+            "image": "spell-pierce.jpg",
+            "description": "You've got a couple counterspells like this. They go INSANE in this deck. Picture this: your commander is on the field. You're making wraiths, and it's getting scary. So someone casts a spell to kill your commander. HA PSYCH! You cast Spell Pierce. Their spell goes away. And then YOU MAKE ANOTHER WRAITH. These are great great spells."
+        },
+        {
+            "name": "Talrand, Sky Summoner",
+            "image": "talrand-sky-summoner.jpg",
+            "description": "There are a few cards like these in the deck that give you payoffs for casting instants and sorceries. It's possible that people will see how scary your commander is and will kill him. That's ok; you have cards like Talrand that still create a bunch of creatures for you."
+        }
+    ],
+    "turnByTurnGuide": [
+        {
+            "turn": "Turns 1-2",
+            "goal": "Ramp and Setup",
+            "actions": "Ramp as hard as you can. Your commander is 5 mana, and it's pretty important to your game plan. So you need to have as much mana as possible."
+        },
+        {
+            "turn": "Turns 3-4",
+            "goal": "Ramp Some More, Maybe Cast Commander",
+            "actions": "Turns 3 and 4 you should definitely ramp some more, maybe play a spell or two to get more cards in your hand. If you have enough mana you could cast your commander, but only if you feel confident you can pop off next turn."
+        },
+        {
+            "turn": "Turns 5-7",
+            "goal": "Cast Instants and Sorceries, Make Wraiths",
+            "actions": "If you do it right, and you cast tons of spells turns 5, 6, and 7, you should be able to have 9/9 flying wraiths in no time. Focus on casting those instants and sorceries."
+        },
+        {
+            "turn": "Turns 8+",
+            "goal": "Close Out the Game",
+            "actions": "You should have a ton of wraiths out by now. If you don't, no biggy; you have ways to draw more cards and payoff cards to make even more creatures. Bottom line... you should be controlling the game and well on your way to winning by now."
+        }
+    ],
+    "cardsByCategory": {
+        "Ramp": [
+            {
+                "name": "Arcane Signet"
+            },
+            {
+                "name": "Bonder's Ornament"
+            },
+            {
+                "name": "Commander's Sphere"
+            },
+            {
+                "name": "Dimir Signet"
+            },
+            {
+                "name": "Haughty Djinn"
+            },
+            {
+                "name": "Infernal Idol"
+            },
+            {
+                "name": "Inherited Envelope"
+            },
+            {
+                "name": "Karfell Harbinger"
+            },
+            {
+                "name": "Mind Stone"
+            },
+            {
+                "name": "Sol Ring"
+            },
+            {
+                "name": "Spectral Searchlight"
+            },
+            {
+                "name": "Unblinking Observer"
+            },
+            {
+                "name": "Volshe Tideturner"
+            }
+        ],
+        "Card Draw": [
+            {
+                "name": "Academy Wall"
+            },
+            {
+                "name": "Aphotic Wisps"
+            },
+            {
+                "name": "Birthday Escape"
+            },
+            {
+                "name": "Bone to Ash"
+            },
+            {
+                "name": "Cremate"
+            },
+            {
+                "name": "Deep Analysis"
+            },
+            {
+                "name": "Desperate Measures"
+            },
+            {
+                "name": "Distant Melody"
+            },
+            {
+                "name": "Enter the Enigma"
+            },
+            {
+                "name": "Focus the Mind"
+            },
+            {
+                "name": "Impulse"
+            },
+            {
+                "name": "Obsessive Search"
+            },
+            {
+                "name": "Opt"
+            },
+            {
+                "name": "Peek"
+            },
+            {
+                "name": "Quick Study"
+            },
+            {
+                "name": "Read the Bones"
+            },
+            {
+                "name": "Sauron's Ransom"
+            },
+            {
+                "name": "Scour All Possibilities"
+            },
+            {
+                "name": "Shared Discovery"
+            },
+            {
+                "name": "Sign in Blood"
+            },
+            {
+                "name": "Thought Scour"
+            },
+            {
+                "name": "Unending Whisper"
+            },
+            {
+                "name": "Whispers of the Muse"
+            },
+            {
+                "name": "You Are Already Dead"
+            }
+        ],
+        "Removal": [
+            {
+                "name": "Aether Gale"
+            },
+            {
+                "name": "Aetherize"
+            },
+            {
+                "name": "Claim the Precious"
+            },
+            {
+                "name": "Crippling Fear"
+            },
+            {
+                "name": "Feed the Swarm"
+            },
+            {
+                "name": "Glorious Gale"
+            },
+            {
+                "name": "Infernal Grasp"
+            },
+            {
+                "name": "Murder"
+            },
+            {
+                "name": "Negate"
+            },
+            {
+                "name": "Niblis of Frost"
+            },
+            {
+                "name": "Reality Shift"
+            },
+            {
+                "name": "Soothing of Sméagol"
+            },
+            {
+                "name": "Spell Pierce"
+            },
+            {
+                "name": "Virulent Swipe"
+            }
+        ],
+        "Tutor": [
+            {
+                "name": "Ringsight"
+            },
+            {
+                "name": "Sam's Desperate Rescue"
+            }
+        ],
+        "Spell Payoff": [
+            {
+                "name": "Gale, Waterdeep Prodigy"
+            },
+            {
+                "name": "Gothmog, Morgul Lieutenant"
+            },
+            {
+                "name": "Levitation"
+            },
+            {
+                "name": "Murmuring Mystic"
+            },
+            {
+                "name": "Paragon of Open Graves"
+            },
+            {
+                "name": "Rona, Sheoldred's Faithful"
+            },
+            {
+                "name": "Soulblade Djinn"
+            },
+            {
+                "name": "Talrand, Sky Summoner"
+            }
+        ],
+        "Lands": [
+            {
+                "name": "Command Tower"
+            },
+            {
+                "name": "Dimir Guildgate"
+            },
+            {
+                "name": "Dismal Backwater"
+            },
+            {
+                "name": "Evolving Wilds"
+            },
+            {
+                "name": "Exotic Orchard"
+            },
+            {
+                "name": "Island"
+            },
+            {
+                "name": "Realm of Koh"
+            },
+            {
+                "name": "Swamp"
+            },
+            {
+                "name": "Temple of Deceit"
+            },
+            {
+                "name": "Terramorphic Expanse"
+            }
+        ]
+    }
+}

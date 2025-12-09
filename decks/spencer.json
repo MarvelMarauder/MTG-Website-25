@@ -1,0 +1,292 @@
+{
+    "playerName": "Spencer",
+    "deckTitle": "The DemaGaslighter",
+    "commander": {
+        "name": "Breena, the Demagogue",
+        "type": "Legendary Creature — Bird Warlock",
+        "image": "breena.jpg"
+    },
+    "customColors": {
+        "primary": "#B3B5B3",
+        "secondary": "#000000"
+    },
+    "stats": {
+        "creatures": 33,
+        "spells": 15,
+        "lands": 37,
+        "enchantmentsArtifacts": 14
+    },
+    "strategy": "When piloting this deck, you are the angel and the devil on the shoulders of your opponents. Breena's ability gives your opponents cards when they attack anyone other than you, and card draw is ALWAYS good. But every time they do that, your creatures get bigger.. \nThus, the goal of this deck is to manipulate the rest of the table to attack anyone that is not you. And I've put cards in here that make it either very difficult or very annoying to attack you to help you out. Then once you've delayed them attacking you for long enough... you swing with your huge creatures and kill them all.",
+    "notableCards": [
+        {
+            "name": "Revenge of Ravens",
+            "image": "revenge-of-ravens.jpg",
+            "description": "This is a good example of cards that make it even more annoying to attack you. Essentially, if someone attacks you, you gain a life and they lose a life for EVERY SINGLE CREATURE attacking you."
+        },
+        {
+            "name": "Forbidding Spirit",
+            "image": "forbidding-spirit.jpg",
+            "description": "Yeah, this one just forces your opponents to attack someone that isn't you for a whole round. It's great."
+        },
+        {
+            "name": "Despark",
+            "image": "despark.jpg",
+            "description": "You're going to be a little annoying for your opponents. And one of them is going to decide they want to attack you, no matter the consequences. And if it's big, you might end up taking a ton of damage! So cards like this can help remove troublesome creatures that are dealing you damage."
+        },
+        {
+            "name": "Sigarda's Summons",
+            "image": "sigardas-summons.jpg",
+            "description": "This card will be crazy for you. You'll be putting counters all over the place, and this card makes all your creature with counters into crazy powerful angels. Great card here."
+        }
+    ],
+    "turnByTurnGuide": [
+        {
+            "turn": "Turns 1-2",
+            "goal": "Ramp and Setup",
+            "actions": "Play lands and ramp pieces to get your hands on the colors you need, or draw cards to get to key pieces."
+        },
+        {
+            "turn": "Turns 3-4",
+            "goal": "Cast Commander, Set Up Gaslighting",
+            "actions": "Cast Breena turn 3 or 4 to get started on putting counters on your creatures and manipulating your opponents into attacking each other."
+        },
+        {
+            "turn": "Turns 5-7",
+            "goal": "Cast Creatures, Make Them Bigger, Keep Gaslighting",
+            "actions": "Your commander is now online, and you've got a couple creatures out. Take these turns to get more creatures out and put more counters on them and making your opponents attack people that aren't you."
+        },
+        {
+            "turn": "Turns 8+",
+            "goal": "Close Out the Game",
+            "actions": "Your creatures should be huge now. Start swinging, deal as much damage as possible, and try to avoid getting Breena killed. You've successfully stopped people from attacking you and now you'll be killing them."
+        }
+    ],
+    "cardsByCategory": {
+        "Ramp": [
+            {
+                "name": "Arcane Signet"
+            },
+            {
+                "name": "Charcoal Diamond"
+            },
+            {
+                "name": "Commander's Sphere"
+            },
+            {
+                "name": "Keeper of the Accord"
+            },
+            {
+                "name": "Loyal Warhound"
+            },
+            {
+                "name": "Marble Diamond"
+            },
+            {
+                "name": "Mind Stone"
+            },
+            {
+                "name": "Orzhov Signet"
+            },
+            {
+                "name": "Wayfarer's Bauble"
+            }
+        ],
+        "Card Draw": [
+            {
+                "name": "Bladebrand"
+            },
+            {
+                "name": "Cut a Deal"
+            },
+            {
+                "name": "Farsight Mask"
+            },
+            {
+                "name": "Fetid Gargantua"
+            },
+            {
+                "name": "Mask of Memory"
+            },
+            {
+                "name": "Secret Rendezvous"
+            },
+            {
+                "name": "Sunstar Lightsmith"
+            },
+            {
+                "name": "Yathan Tombguard"
+            }
+        ],
+        "Removal": [
+            {
+                "name": "Austere Command"
+            },
+            {
+                "name": "Bounty Agent"
+            },
+            {
+                "name": "Deathbringer Liege"
+            },
+            {
+                "name": "Despark"
+            },
+            {
+                "name": "Feed the Swarm"
+            },
+            {
+                "name": "Hopeful Initiate"
+            },
+            {
+                "name": "Mana Tithe"
+            },
+            {
+                "name": "Mortify"
+            },
+            {
+                "name": "Promise of Loyalty"
+            },
+            {
+                "name": "Soul Snare"
+            }
+        ],
+        "Protection": [
+            {
+                "name": "Divine Resilience"
+            },
+            {
+                "name": "Duty Beyond Death"
+            },
+            {
+                "name": "Fake Your Own Death"
+            },
+            {
+                "name": "Feat of Resistance"
+            },
+            {
+                "name": "Fleeting Flight"
+            },
+            {
+                "name": "Lightfoot Technique"
+            }
+        ],
+        "Counters Matter": [
+            {
+                "name": "Abzan Battle Priest"
+            },
+            {
+                "name": "Abzan Falconer"
+            },
+            {
+                "name": "Ayara's Oathsworn"
+            },
+            {
+                "name": "Chocobo Knights"
+            },
+            {
+                "name": "Envoy of the Ancestors"
+            },
+            {
+                "name": "Grateful Apparition"
+            },
+            {
+                "name": "Metastatic Evangel"
+            },
+            {
+                "name": "Miner's Guidewing"
+            },
+            {
+                "name": "Oona's Blackguard"
+            },
+            {
+                "name": "Sigarda's Summons"
+            },
+            {
+                "name": "Sunscorch Regent"
+            },
+            {
+                "name": "Together Forever"
+            },
+            {
+                "name": "Zack Fair"
+            }
+        ],
+        "Gaslighters": [
+            {
+                "name": "Archon of Absolution"
+            },
+            {
+                "name": "Baird, Steward of Argive"
+            },
+            {
+                "name": "Noble Heritage"
+            },
+            {
+                "name": "Orzhov Advokist"
+            },
+            {
+                "name": "Revenge of Ravens"
+            },
+            {
+                "name": "Selfless Glyphweaver // Deadly Vanity"
+            },
+            {
+                "name": "Selfless Savior"
+            },
+            {
+                "name": "Selfless Squire"
+            },
+            {
+                "name": "Windborn Muse"
+            }
+        ],
+        "Value Creatures": [
+            {
+                "name": "Forbidding Spirit"
+            },
+            {
+                "name": "Healer's Hawk"
+            },
+            {
+                "name": "Hunted Lammasu"
+            },
+            {
+                "name": "Segovian Angel"
+            },
+            {
+                "name": "Shrike Force"
+            },
+            {
+                "name": "Speaker of the Heavens"
+            },
+            {
+                "name": "Vampire Nighthawk"
+            }
+        ],
+        "Lands": [
+            {
+                "name": "Evolving Wilds"
+            },
+            {
+                "name": "Exotic Orchard"
+            },
+            {
+                "name": "Geier Reach Sanitarium"
+            },
+            {
+                "name": "Orzhov Guildgate"
+            },
+            {
+                "name": "Path of Ancestry"
+            },
+            {
+                "name": "Plains"
+            },
+            {
+                "name": "Scoured Barrens"
+            },
+            {
+                "name": "Swamp"
+            }
+        ]
+    }
+}

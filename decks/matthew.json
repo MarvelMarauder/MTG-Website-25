@@ -1,0 +1,305 @@
+{
+    "playerName": "Matthew",
+    "deckTitle": "One Big Party, One Big Puke",
+    "commander": {
+        "name": "Bilbo, Birthday Celebrant",
+        "type": "Legendary Creature — Halfling Rogue",
+        "image": "bilbo.jpg"
+    },
+    "customColors": {
+        "primary": "#17B039",
+        "secondary": "#D1CD17"
+    },
+    "stats": {
+        "creatures": 28,
+        "spells": 20,
+        "lands": 38,
+        "enchantmentsArtifacts": 13
+    },
+    "strategy": "This deck has a single goal: gain life. Of course there are lots of cards that payoff from you gaining life, so you can make creatures bigger with your lifegain, but the goal is the get to 111 life. Cause if you can get to that level of life, then it's all over for everyone else. So it's extremely important that you focus on KILLING YOUR OPPONENENTS THINGS. There aren't a ton of ways to do this in the deck, but if you can fly under the radar for a while and simply gain life quietly, then find one of your big spells that kill all the creatures, you should be golden. This is a hard gameplan to pull off, but the rewards are incredible.",
+    "notableCards": [
+        {
+            "name": "Authority of the Consuls",
+            "image": "authority.jpg",
+            "description": "This is a crazy powerful card in your deck. It makes all your opponents' things enter at a disadvantage and gains you a life every time it happens! Crazy."
+        },
+        {
+            "name": "Trelasarra, Moon Dancer",
+            "image": "trelasarra.jpg",
+            "description": "This is an example of a benefit from gaining life. The more you gain life, the bigger she gets and you can look through cards in your library. There are several cards like this in your deck, keep an eye out for them."
+        },
+        {
+            "name": "Revival // Revenge",
+            "image": "revival.jpg",
+            "description": "This card is absurd. If you cast the revenge side, you DOUBLE your life total and HALF the life total of an opponent. So if you have 56 life and you cast this, you're immediately over 111 and can do your crazy finisher. Always watch out for this card."
+        },
+        {
+            "name": "Feasting Hobbit",
+            "image": "feasting-hobbit.jpg",
+            "description": "It might look goofy, but if you can't pull off Bilbo's finisher, this will work as a second option. When it enters, it gets 3 TIMES as many food tokens as you sacrifice. Meaning, if you make a bunch of food tokens (and there are several ways to make them), then cast this, a little 2/2 goofy guy is suddenly a 32/32 and killing an opponent."
+        }
+    ],
+    "turnByTurnGuide": [
+        {
+            "turn": "Turns 1-2",
+            "goal": "Ramp and Setup",
+            "actions": "Play lands and ramp pieces to get your hands on the colors you need. Don't be afraid to focus on ramping; you need black, green, and white to cast Bilbo."
+        },
+        {
+            "turn": "Turns 3-4",
+            "goal": "Cast Commander, Set Up Lifegain",
+            "actions": "You should cast Bilbo about now. Then focus on getting your lifegain strategies set up; you need a lot of life to ultimate him."
+        },
+        {
+            "turn": "Turns 5-7",
+            "goal": "Gain Life, Gain Life, Gain Life",
+            "actions": "Get your life as high as it can go. Everyone is playing chess; you're playing checkers. Is your game simpler and stupider? Yes. But will you literally steamroll them in a massive turn if you get to 111? Also yes."
+        },
+        {
+            "turn": "Turns 8+",
+            "goal": "Close Out the Game",
+            "actions": "The rest of the game is looking to gain life and ultimate Bilbo. But, there's a high likelihood that it can't happen. If that's the case, then you need to pivot. You should have gained enough life that everyone else is pretty low; find your creatures that benefit from lifegain and just smash face with them. Your main game plan is silly, but if that doesn't work you can just make big creatures and hit people with them."
+        }
+    ],
+    "cardsByCategory": {
+        "Ramp": [
+            {
+                "name": "Accomplished Alchemist"
+            },
+            {
+                "name": "Cultivate"
+            },
+            {
+                "name": "Many Partings"
+            },
+            {
+                "name": "Pristine Talisman"
+            },
+            {
+                "name": "Prize Pig"
+            },
+            {
+                "name": "Prosperous Innkeeper"
+            },
+            {
+                "name": "Rampant Growth"
+            },
+            {
+                "name": "Sakura-Tribe Elder"
+            },
+            {
+                "name":"Cycle of Renewal"
+            }
+        ],
+        "Card Draw": [
+            {
+                "name": "Dawn of Hope"
+            },
+            {
+                "name": "Frodo, Adventurous Hobbit"
+            },
+            {
+                "name": "Healing Hands"
+            },
+            {
+                "name": "Heirloom Epic"
+            },
+            {
+                "name": "Instant Ramen"
+            },
+            {
+                "name": "Lifecrafter's Bestiary"
+            },
+            {
+                "name": "Mirror of Galadriel"
+            },
+            {
+                "name": "Revitalize"
+            },
+            {
+                "name": "Urza's Tome"
+            },
+            {
+                "name": "Well of Lost Dreams"
+            }
+        ],
+        "Removal": [
+            {
+                "name": "Abzan Charm"
+            },
+            {
+                "name": "Citadel Siege"
+            },
+            {
+                "name": "Despark"
+            },
+            {
+                "name": "Duty Beyond Death"
+            },
+            {
+                "name": "Expel the Interlopers"
+            },
+            {
+                "name": "Fell the Mighty"
+            },
+            {
+                "name": "Go for the Throat"
+            },
+            {
+                "name": "Kin-Tree Severance"
+            },
+            {
+                "name": "Mortality Spear"
+            },
+            {
+                "name": "Mortify"
+            },
+            {
+                "name": "Ready // Willing"
+            }
+        ],
+        "Lifegain": [
+            {
+                "name": "Ancestor Dragon"
+            },
+            {
+                "name": "Angel of Vitality"
+            },
+            {
+                "name": "Authority of the Consuls"
+            },
+            {
+                "name": "Blood Artist"
+            },
+            {
+                "name": "Crypt Incursion"
+            },
+            {
+                "name": "Daxos, Blessed by the Sun"
+            },
+            {
+                "name": "Elas il-Kor, Sadistic Pilgrim"
+            },
+            {
+                "name": "Fumigate"
+            },
+            {
+                "name": "Hinterland Sanctifier"
+            },
+            {
+                "name": "Nyx-Fleece Ram"
+            },
+            {
+                "name": "Revival // Revenge"
+            },
+            {
+                "name": "Sunscorch Regent"
+            }
+        ],
+        "Food Tokens": [
+            {
+                "name": "Cat Collector"
+            },
+            {
+                "name": "Field-Tested Frying Pan"
+            },
+            {
+                "name": "Meriadoc Brandybuck"
+            },
+            {
+                "name": "Midnight Snack"
+            },
+            {
+                "name": "Of Herbs and Stewed Rabbit"
+            },
+            {
+                "name": "Peregrin Took"
+            },
+            {
+                "name": "Rapacious Guest"
+            },
+            {
+                "name": "Revive the Shire"
+            },
+            {
+                "name": "Rosie Cotton of South Lane"
+            },
+            {
+                "name": "Sam, Loyal Attendant"
+            }
+        ],
+        "Lifegain Payoff": [
+            {
+                "name": "Dina, Soul Steeper"
+            },
+            {
+                "name": "Elenda, Saint of Dusk"
+            },
+            {
+                "name": "Feasting Hobbit"
+            },
+            {
+                "name": "Fiendish Panda"
+            },
+            {
+                "name": "Gollum, Obsessed Stalker"
+            },
+            {
+                "name": "Lathiel, the Bounteous Dawn"
+            },
+            {
+                "name": "Marauding Blight-Priest"
+            },
+            {
+                "name": "Mirkwood Bats"
+            },
+            {
+                "name": "Trelasarra, Moon Dancer"
+            }
+        ],
+        "Lands": [
+            {
+                "name": "Blossoming Sands"
+            },
+            {
+                "name": "Evolving Wilds"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Graypelt Refuge"
+            },
+            {
+                "name": "Jungle Hollow"
+            },
+            {
+                "name": "Plains"
+            },
+            {
+                "name": "Radiant Grove"
+            },
+            {
+                "name": "Sandsteppe Citadel"
+            },
+            {
+                "name": "Scoured Barrens"
+            },
+            {
+                "name": "Swamp"
+            },
+            {
+                "name": "Temple of Malady"
+            },
+            {
+                "name": "Temple of Plenty"
+            },
+            {
+                "name": "Temple of Silence"
+            },
+            {
+                "name": "Terramorphic Expanse"
+            }
+        ]
+    }
+}

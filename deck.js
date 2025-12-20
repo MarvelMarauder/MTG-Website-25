@@ -37,6 +37,7 @@ async function login() {
 
 function loadDeck(deck) {
     document.getElementById('loginScreen').style.display = 'none';
+    //document.getElementById('giftDepartment').style.display = 'none';
     document.getElementById('deckScreen').style.display = 'block';
 
     // Apply custom colors if provided
